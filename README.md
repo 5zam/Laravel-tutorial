@@ -35,7 +35,7 @@ We built a simple coding tutorial website with 4 main pages:
 ```
 resources/views/
 ├── layouts/
-│   └── app.blade.php          # Master template (shared layout)
+│   └── app.blade.php          # Master template (shared layout) We'll learn more about later
 ├── welcome.blade.php          # Homepage
 ├── blog.blade.php             # Blog page
 ├── login.blade.php            # Login page
