@@ -185,13 +185,6 @@ This is where the actual page content lives - the text, images, forms, and every
 - `@section('styles')` adds page-specific CSS
 - `@section('content')` contains the main page content
 
-## What's Next?
 
-Now that you understand the basics of views, we'll dive deeper into:
-
-1. **Basic Routing** - How URLs connect to these view files
-2. **Blade Templates** - The powerful templating features we're using (like `@extends`, `@section`, `{{ asset() }}`)
-3. **Database** - How to display dynamic content instead of static text
-4. **Controllers** - How to organize the logic that prepares data for views
 
 Views are the foundation - everything else builds on top of what you've learned here!
