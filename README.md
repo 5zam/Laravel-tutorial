@@ -17,17 +17,16 @@ We built a simple coding tutorial website with 4 main pages:
 
 ## Screenshots
 
-<h3>Homepage</h3>
-<img src="https://github.com/user-attachments/assets/01eb0f12-fdf3-4a99-91eb-32ab3e2eaa72" width="500"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01eb0f12-fdf3-4a99-91eb-32ab3e2eaa72" width="45%" alt="Homepage"/>
+  <img src="https://github.com/user-attachments/assets/b7302418-5809-4cb0-97a5-f84ec1bd7cf1" width="45%" alt="Login Page"/>
+</p>
 
-<h3>Login Page</h3>
-<img src="https://github.com/user-attachments/assets/b7302418-5809-4cb0-97a5-f84ec1bd7cf1" width="500"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c0984e1-c70d-4433-a07a-87f0e93b6dca" width="45%" alt="Sign Up Page"/>
+  <img src="https://github.com/user-attachments/assets/5c27a151-397e-4e3a-b9dc-9d05c0ce392b" width="45%" alt="Blogs Page"/>
+</p>
 
-<h3>Sign Up Page</h3>
-<img src="https://github.com/user-attachments/assets/7c0984e1-c70d-4433-a07a-87f0e93b6dca" width="500"/>
-
-<h3>Blogs Page</h3>
-<img src="https://github.com/user-attachments/assets/5c27a151-397e-4e3a-b9dc-9d05c0ce392b" width="500"/>
 
 
 
